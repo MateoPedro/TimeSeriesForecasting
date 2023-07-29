@@ -11,8 +11,8 @@ This repository contains the code and relevant files for a sales forecasting mod
 
 ## Files
 
-- `Data`: This folder contains all relevant data files.
-- `FavoritaSalesForecasting.ipynb`: This Jupyter Notebook contains all the code used in this project.
+- `Datas`: This folder contains all relevant data files.
+- `TimeSeriesForecasting.ipynb`: This Jupyter Notebook contains all the code used in this project.
 - `README.md`: The file you're currently reading.
 
 ## Model Details
